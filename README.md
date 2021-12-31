@@ -330,7 +330,7 @@ Thank you for being involved! :heart_eyes:
 
 The original setup of this repository is by [Franck Nijhof][frenck].
 
-The updated repository is maintained by [Rob Landry][roblandry]
+The updated repository is maintained by [Jonathan Mahady][esbnetworking]
 
 For a full list of all authors and contributors,
 check [the contributor's page][contributors].
@@ -367,10 +367,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
-[buymeacoffee]: https://www.buymeacoffee.com/roblandry
-[commits-shield]: https://img.shields.io/github/commit-activity/y/roblandry/addon-shinobi.svg
-[commits]: https://github.com/roblandry/addon-shinobi/commits/master
-[contributors]: https://github.com/roblandry/addon-shinobi/graphs/contributors
+[buymeacoffee]: https://www.buymeacoffee.com/esbnetworking
+[commits-shield]: https://img.shields.io/github/commit-activity/y/esbnetworking/addon-shinobi.svg
+[commits]: https://github.com/esbnetworking/addon-shinobi/commits/master
+[contributors]: https://github.com/esbnetworking/addon-shinobi/graphs/contributors
 [discord]: https://discord.gg/c5DvZ4e
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord-me]: http://discordapp.com/users/378376356108435457
@@ -378,15 +378,16 @@ SOFTWARE.
 [forum]: https://community.home-assistant.io/t/hass-addon-shinobi-revival/183349
 [frenck]: https://github.com/frenck
 [roblandry]: https://github.com/roblandry
+[esbnetworking]: https://github.com/esbnetworking
 [home-assistant]: https://home-assistant.io
-[issue]: https://github.com/roblandry/addon-shinobi/issues
+[issue]: https://github.com/esbnetworking/addon-shinobi/issues
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
-[license-shield]: https://img.shields.io/github/license/roblandry/addon-shinobi.svg
+[license-shield]: https://img.shields.io/github/license/esbnetworking/addon-shinobi.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-beta-yellow.svg
 [python-packages]: https://pypi.org/
 [reddit]: https://reddit.com/r/homeassistant
-[releases-shield]: https://img.shields.io/github/v/release/roblandry/addon-shinobi?include_prereleases
-[releases]: https://github.com/roblandry/addon-shinobi/releases
+[releases-shield]: https://img.shields.io/github/v/release/esbnetworking/addon-shinobi?include_prereleases
+[releases]: https://github.com/esbnetworking/addon-shinobi/releases
 [repository]: https://github.com/hassio-addons/repository
 [semver]: http://semver.org/spec/v2.0.0.htm
