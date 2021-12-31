@@ -30,7 +30,7 @@ RUN \
         x265 \
     && git clone -b master --single-branch \
         https://gitlab.com/Shinobi-Systems/Shinobi.git /opt/shinobi/ \
-    && git -C /opt/shinobi checkout e9e33a4b592fb12911e4e78de8c578bb5f1bedef \
+    && git -C /opt/shinobi checkout a2faa40ab0e9952ff6a7fcf682534171614180c1 \
     && git -C /opt/shinobi reflog expire --expire=now --all \
     && git -C /opt/shinobi gc --prune=now --aggressive \
     && cd /opt/shinobi \
@@ -60,7 +60,7 @@ LABEL \
     org.label-schema.name="Shinobi" \
     org.label-schema.schema-version="1.0" \
     org.label-schema.url="https://community.home-assistant.io/t/community-hass-io-add-on-shinobi-pro/49767?u=frenck" \
-    org.label-schema.usage="https://github.com/roblandry/addon-shinobi/tree/master/README.md" \
+    org.label-schema.usage="https://github.com/esbnetworking/addon-shinobi/tree/master/README.md" \
     org.label-schema.vcs-ref=${BUILD_REF} \
-    org.label-schema.vcs-url="https://github.com/roblandry/addon-shinobi" \
+    org.label-schema.vcs-url="https://github.com/esbnetworking/addon-shinobi" \
     org.label-schema.vendor="Community Hass.io Add-ons"
